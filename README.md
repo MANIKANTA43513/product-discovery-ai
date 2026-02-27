@@ -8,9 +8,9 @@ AI-based recommendation logic
 Deployment (Frontend: Vercel, Backend: Render)
 🚀 Live Demo
 Frontend (Vercel):
-👉 https://your-frontend-url.vercel.app
+👉 https://ai-product-navigator.vercel.app/
 Backend (Render):
-👉 https://your-backend-url.onrender.com
+👉 https://product-discovery-ai-rz6i.onrender.com/api/products
 🏗️ Tech Stack
 Frontend
 React.js
